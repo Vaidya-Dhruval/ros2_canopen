@@ -17,14 +17,10 @@ This is the documentation of the ROS2 CANopen stack.
   :caption: User Guide
   :glob:
 
-  user-guide/operation
-  user-guide/configuration
-  user-guide/master
-  user-guide/proxy-driver
-  user-guide/cia402-driver
-  user-guide/how-to-create-a-configuration
-  user-guide/how-to-create-a-cia301-system
-  user-guide/how-to-create-a-robot-system
+  user-guide/1_operation
+  user-guide/2_interface
+  user-guide/3_configuration
+  user-guide/4_how_to_guide
 
 .. toctree::
   :maxdepth: 1
@@ -44,6 +40,7 @@ This is the documentation of the ROS2 CANopen stack.
   developers-guide/architecture
   developers-guide/new-driver
   developers-guide/new-master
+  developers-guide/new-device-manager
   API Reference <https://ros-industrial.github.io/ros2_canopen/api/rolling/>
 
 .. toctree::
