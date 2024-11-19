@@ -13,14 +13,20 @@ This is the documentation of the ROS2 CANopen stack.
   quickstart/examples
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 2
   :caption: User Guide
   :glob:
-
-  user-guide/1_operation
-  user-guide/2_interface
-  user-guide/3_configuration
-  user-guide/4_how_to_guide
+  
+  user_guide/**
+  .. user-guide/1_operation
+  .. user-guide/1_operation/1_operation_modes
+  .. user-guide/1_operation/2_operation_interface
+  .. user-guide/2_interface
+  .. user-guide/3_configuration
+  .. user-guide/3_configuration/1_bus_configuration
+  .. user-guide/3_configuration/2_cmake_configuration
+  .. user-guide/3_configuration/3_device_configuration
+  .. user-guide/4_how_to_guide
 
 .. toctree::
   :maxdepth: 1
