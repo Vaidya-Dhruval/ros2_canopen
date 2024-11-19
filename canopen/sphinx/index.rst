@@ -13,7 +13,7 @@ This is the documentation of the ROS2 CANopen stack.
   quickstart/examples
 
 .. toctree::
-  :maxdepth: 2
+  :maxdepth: 1
   :caption: User Guide
   :glob:
   
